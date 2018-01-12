@@ -1,0 +1,2 @@
+# SanTruggy
+OpenRc Truggy Files
